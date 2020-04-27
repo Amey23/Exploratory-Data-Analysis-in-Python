@@ -13,3 +13,5 @@ Libraries:-
   Matplotlib
 
 Download the latest version of python and required libraries.
+Lots of dataset are available on https://archive.ics.uci.edu/ml/datasets.php
+So you can download it and perform the exploratory data analysis on it.
