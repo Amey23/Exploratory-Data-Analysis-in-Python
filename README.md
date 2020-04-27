@@ -4,6 +4,7 @@ You will get to know the about necessary EDA process steps required for data pro
 
 #Prerequisite required:-
 Python
+
 Libraries:-
   Pandas
   Numpy
